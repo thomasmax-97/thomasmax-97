@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on plexstorm.com
-
-[![thomasmax-97's github stats](https://github-readme-stats.vercel.app/api?username=thomasmax-97)](https://github.com/thomasmax-97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmax-97&layout=compact)](https://github.com/thomasmax-97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmax-97&layout=compact)](https://github.com/thomasmax-97/github-readme-stats)
 <!--
 **thomasmax-97/thomasmax-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
